@@ -1,3 +1,3 @@
 [submodule "minecraft-data"]
 	path = minecraft-data
-	url = https://github.com/seamoolab/minecraft-data
+	url = https://github.com/SeaMooLab/minecraft-data.git
